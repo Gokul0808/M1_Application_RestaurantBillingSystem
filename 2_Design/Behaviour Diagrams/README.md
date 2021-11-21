@@ -1,2 +1,2 @@
 # BEHAVIOUR DIAGRAM
-![alt text](BEHAVIOUR STRUCTURE.jpg)
+![alt text](image.jpg)
