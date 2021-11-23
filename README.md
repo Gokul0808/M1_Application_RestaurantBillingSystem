@@ -1,6 +1,9 @@
 # M1_Website_RestaurantBillingSystem
 Delicious food at right time
 
+| Build | Code Analysis - Static & Dynamaic | Unity | Code Quality | Git Inspector |
+|---|---|---|---|---|
+| [![C/C++ CI](https://github.com/Gokul0808/M1_Application_RestaurantBillingSystem/actions/workflows/Linux.yml/badge.svg)](https://github.com/Gokul0808/M1_Application_RestaurantBillingSystem/actions/workflows/Linux.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/Gokul0808/M1_Application_RestaurantBillingSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Gokul0808/M1_Application_RestaurantBillingSystem/actions/workflows/cppcheck.yml)| [![Unit Testing - Unity](https://github.com/Gokul0808/M1_Application_RestaurantBillingSystem/actions/workflows/unity.yml/badge.svg)](https://github.com/Gokul0808/M1_Application_RestaurantBillingSystem/actions/workflows/unity.yml) |![Code Quality Score](https://api.codiga.io/project/29804/score/svg) ![Code Grade](https://api.codiga.io/project/29804/status/svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cffd343e61614e60829ae29e1738e396)](https://www.codacy.com/gh/Gokul0808/M1_Application_RestaurantBillingSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gokul0808/M1_Application_RestaurantBillingSystem&amp;utm_campaign=Badge_Grade) | [![Contribution Check - Git Inspector](https://github.com/Gokul0808/M1_Application_RestaurantBillingSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Gokul0808/M1_Application_RestaurantBillingSystem/actions/workflows/gitinspector.yml)
 # Folder Structure
 | Folder | Description |
 | ---- | ---- |
