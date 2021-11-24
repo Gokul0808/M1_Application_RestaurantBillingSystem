@@ -5,7 +5,7 @@
 
 void display()
 {
-    printf("                Welcome to abc Restaurant.          \n ");
+    printf("                Welcome to GOKUL Restaurant.          \n ");
     printf("             +============================+          \n\n");
     printf("  && Please select the meal that you would like to purchase. && \n\n");
     printf("\t\t      [A] Breakfast\n");
@@ -14,7 +14,7 @@ void display()
 }
 void display_bfmenu()
 {
-    printf("                Welcome to abc Restaurant.          \n ");
+    printf("                Welcome to GOKUL Restaurant.          \n ");
     printf("             +============================+          \n\n");
     printf("                  $  Breakfast Menu  $ \n\n");
     printf("  && Please select the food that you would like to purchase. && \n\n");
@@ -76,7 +76,7 @@ void display_bf_bill(char bfmenu[][100])
 {
     int i;
     printf("  +~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+          \n\n");
-    printf("                      abc RESTAURANT                   \n");
+    printf("                      GOKUL RESTAURANT                   \n");
     printf("                    BILLING INFORMATION                \n");
     printf("\t\t ITEMS\t\tPrice(in Rs.)\n");
     for(i=0;i<7;i++)
@@ -99,7 +99,7 @@ void display_lunch_bill(char lunchmenu[][100])
 {
     int i;
     printf("  +~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+          \n\n");
-    printf("                      abc RESTAURANT                   \n");
+    printf("                      GOKUL RESTAURANT                   \n");
     printf("                    BILLING INFORMATION                \n");
     printf("\t\t ITEMS\t\t\tPrice(in Rs.)\n");
     for(i=0;i<7;i++)
@@ -121,7 +121,7 @@ void display_dinner_bill(char dinnermenu[][100])
 {
     int i;
     printf("  +~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+          \n\n");
-    printf("                      abc RESTAURANT                   \n");
+    printf("                      GOKUL RESTAURANT                   \n");
     printf("                    BILLING INFORMATION                \n");
     printf("\t\t ITEMS\t\t\tPrice(in Rs.)\n");
     for(i=0;i<7;i++)
@@ -199,7 +199,7 @@ void dinner(char dinnermenu[][100]) // Dinner Menu Screen
 }
 void lunch_menucard()
 {
-    printf("                Welcome to abc Restaurant.          \n ");
+    printf("                Welcome to GOKUL Restaurant.          \n ");
     printf("             +============================+          \n\n");
     printf("                   $  Lunch Menu  $ \n\n");
     printf("  && Please select the food that you would like to purchase. && \n\n");
@@ -214,7 +214,7 @@ void lunch_menucard()
 }
 void dinner_menu()
 {
-    printf("                Welcome to abc Restaurant.          \n ");
+    printf("                Welcome to GOKUL Restaurant.          \n ");
     printf("             +============================+          \n\n");
     printf("                    $  Dinner Menu  $ \n\n");
     printf("  && Please select the food that you would like to purchase. && \n\n");
