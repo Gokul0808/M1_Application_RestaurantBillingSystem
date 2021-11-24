@@ -1,7 +1,7 @@
 #include "unity.h"
 
 #include "header.h"
-#define PROJECT_NAME "Movie_Ticket_Booking"
+#define PROJECT_NAME "RestaurantBillingSystem"
 
 void test_login(void);
 void test_change_prize(void);
