@@ -1,10 +1,23 @@
 #include "unity.h"
 
 #include "header.h"
-#define PROJECT_NAME "Movie_Ticket_Booking"
+#define PROJECT_NAME "RestaurantBillingSystem"
 
-void test_login(void);
-void test_change_prize(void);
+void bfast(char bfmenu[][100]);
+void lunch( char lunchmenu[][100]);
+void dinner(char dinnermenu[][100]);
+void main_menu();
+void display();
+void lunch_menucard();
+void dinner_menu();
+void display_bf_bill(char bfmenu[][100]);
+void display_lunch_bill(char lunchmenu[][100]);
+void display_dinner_bill(char dinnermenu[][100]);
+void display_bfmenu();
+void repeatbf(char bfmenu[][100]);
+void repeatlunch(char lunchmenu[][100]);
+void repeatdinner(char dinnermenu[][100]);
+void display_total_words();
 
 void setUp()
 {
