@@ -13,11 +13,9 @@
     5. Increased CRM
  # Research 
  ## Then
- ![WhatsApp Image 2021-11-24 at 10 23 13 PM](https://user-images.githubusercontent.com/94180547/143282584-c2e6c2dd-1cc7-4314-84d5-b1b278cf47a7.jpeg)
- 
+ ![WhatsApp Image 2021-11-24 at 10 38 56 PM](https://user-images.githubusercontent.com/94180547/143285663-fc918451-ad20-4a52-9a9e-8779567fb5c8.jpeg)
  ## Now       
- ![WhatsApp Image 2021-11-24 at 10 23 40 PM](https://user-images.githubusercontent.com/94180547/143282621-93281c2a-05a2-46a6-876a-95a7d1eb1420.jpeg)
-
+ ![WhatsApp Image 2021-11-24 at 10 45 06 PM](https://user-images.githubusercontent.com/94180547/143285571-3b42079e-2fad-47fe-8d48-13d55d7873bb.jpeg)
 
  # 4W'S and 1H's
   ## Why:
