@@ -16,4 +16,3 @@
 | LLTP_3 | Dinner Calculation | ( C,2,2,2 ) | Rs.140 | Rs.140 | Requirement Based |
 | LLTP_4 | Invalid Entries | (G) | "Sorry Invalid Decision Entered" | "Sorry Invalid Decision Entered"| Requirement Based |
 | LLTP_5 | Invalid Entries | (A,9) | "Sorry Invalid Decision Entered" | "Sorry Invalid Decision Entered"| Requirement Based |
-.
