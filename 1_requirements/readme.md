@@ -11,6 +11,14 @@
     3. Offline Data Storage
     4. GST support 
     5. Increased CRM
+ # Research 
+ ## Then
+ ![WhatsApp Image 2021-11-24 at 10 23 13 PM](https://user-images.githubusercontent.com/94180547/143282584-c2e6c2dd-1cc7-4314-84d5-b1b278cf47a7.jpeg)
+ 
+ ## Now       
+ ![WhatsApp Image 2021-11-24 at 10 23 40 PM](https://user-images.githubusercontent.com/94180547/143282621-93281c2a-05a2-46a6-876a-95a7d1eb1420.jpeg)
+
+
  # 4W'S and 1H's
   ## Why:
       - To reduce the complexity of Multiple order Billing in Restaurants.
