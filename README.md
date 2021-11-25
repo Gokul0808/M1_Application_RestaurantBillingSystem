@@ -13,7 +13,7 @@ Delicious food at right time
 | 4_Testplan | Documents with test plans |
 | 5_Images | All the images of this project |
 | 6_Report | Documentation of whole project |
-| 7_Others | Other Details |
+| 7_Others | Other Details. |
 
 # Contributors List and Summary
 | Ps no. | Name | Features | Issues raised | Issues resolved | No test cases | Test case Pass |
