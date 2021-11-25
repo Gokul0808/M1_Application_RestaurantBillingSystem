@@ -14,3 +14,14 @@ Delicious food at right time
 | 5_Images | All the images of this project |
 | 6_Report | Documentation of whole project |
 | 7_Others | Other Details |
+
+# Contributors List and Summary
+| Ps no. | Name | Features | Issues raised | Issues resolved | No test cases | Test case Pass |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| *40020549* | Akilan B | F1,F2,F3 | 1 | 1 | 8 | 8 |
+
+| No | Features |
+| ---- | ---- |
+| *F1* | Breakfast Bill |
+| *F2* | Lunch Bill | 
+| *F3* | Dinner Bill |
