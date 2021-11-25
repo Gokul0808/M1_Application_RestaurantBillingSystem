@@ -18,7 +18,7 @@ Delicious food at right time
 # Contributors List and Summary
 | Ps no. | Name | Features | Issues raised | Issues resolved | No test cases | Test case Pass |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| *40020549* | Akilan B | F1,F2,F3 | 1 | 1 | 8 | 8 |
+| *40020551* | Gokulakrishnan R | F1,F2,F3 | 1 | 1 | 8 | 8 |
 
 | No | Features |
 | ---- | ---- |
