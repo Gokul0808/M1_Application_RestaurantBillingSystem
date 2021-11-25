@@ -89,3 +89,5 @@ void test_sip(void) {
 void test_lumpsum(void) {
   TEST_ASSERT_EQUAL(4, lumpsum(100, 2, 2));
 }
+
+}
