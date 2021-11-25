@@ -53,41 +53,4 @@ int main()
   return UNITY_END();
 }
 
-void test_bfast(void) {
-  TEST_ASSERT_EQUAL(4, bfast(100, 1000, 2));
-}
-
-void test_discountcalculator(void) {
-  TEST_ASSERT_EQUAL(4, discountcalculator(100, 2));
-}
-
-void test_ppf(void) {
-  TEST_ASSERT_EQUAL(4, ppf(100, 2));
-  
-}
-
-void test_emi(void) {
-  TEST_ASSERT_EQUAL(0, emi(100, 2, 2));
-  
-}
-
-void test_rd(void) {
-  TEST_ASSERT_EQUAL(4, rd(100, 2, 2));
-  
-}
-
-void test_fd(void) {
-  TEST_ASSERT_EQUAL(4, fd(100, 2, 2));
-  
-}
-
-void test_sip(void) {
-  TEST_ASSERT_EQUAL(4, sip(100, 2, 2));
-  
-}
-
-void test_lumpsum(void) {
-  TEST_ASSERT_EQUAL(4, lumpsum(100, 2, 2));
-}
-
 
